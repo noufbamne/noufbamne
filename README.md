@@ -5,6 +5,11 @@
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Nouf+Bamne+%F0%9F%91%90;Computer+Engineering+Student+%F0%9F%92%BB;AI+%E2%9A%9B%EF%B8%8F+ML+%F0%9F%94%8E+Full-Stack+Dev+%F0%9F%92%A1;Hackathon+Lover+%F0%9F%8F%81+Sketch+Artist+%F0%9F%8E%A8+Tea+Lover+%F0%9F%8D%B5" alt="Typing SVG" /></p>
 
 ---
+<pre style="font-family: 'Courier New', monospace; font-size: 16px; color: #ffccff; background-color: #1a1a2e; padding: 20px; border-radius: 12px; box-shadow: 0 0 20px #ff69b4;">
+🌌 “Magic happens when you don’t give up, even when you want to.  
+     The universe always falls in love with a stubborn heart.” 💖
+</pre>
+---
 
 ### 🌸 About Me
 
@@ -220,46 +225,8 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 </div>
 
 ---
+## 🐍 Contribution Snake
 
-### 📅 My Journey
-
-```mermaid
-gantt
-title ✨ Nouf's Tech Journey ✨
-dateFormat  YYYY-MM-DD
-
-section School Days
-SSC Graduation          :done, 2019-06-01, 1d
-Inspire Award            :done, 2019-08-01, 1d
-Camel Art Wins          :done, 2015-01-01, 2019-12-01
-
-section College Life
-Joined Engineering      :done, 2021-08-01, 1d
-Smart India Hackathon   :done, 2024-03-15, 1d
-Poster Presentation     :done, 2024-04-10, 1d
-CodeSprint DBATU Hackathon :done, 2024-04-28, 1d
-AI in Agriculture Pitch :done, 2025-05-25, 1d
-
-section The Future
-Tech Innovator in Making :2025-06-01, 2025-12-31
-```
+![Nouf's Pink Snake](https://github.com/noufbamne/snk/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-### 💫 Quote to Live By
-
-> “Magic happens when you don’t give up, even when you want to. The universe always falls in love with a stubborn heart.” 🌌
-
----
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/snapshots/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<style>
-  h3, h2, h1 {
-    font-family: 'Segoe UI', 'Fira Code', 'Cursive';
-  }
-</style>
-
-<!-- Theme & Aesthetic: tokyo night, sparkly animations, glowing badges, elegant containers -->
