@@ -15,34 +15,66 @@ Outside the world of tech, I’m a multifaceted creator – I sketch like an art
 Let’s connect, collaborate, and create something magical together! 🎀✨
 
 ---
+## 🏆 Achievements
 
-### 🏆 School Achievements
+<table>
+  <tr>
+    <th colspan="2" align="center">🎓 School Level</th>
+  </tr>
+  <tr>
+    <td>🏅</td>
+    <td>Gold Medalist in Science Olympiad (2018)</td>
+  </tr>
+  <tr>
+    <td>🥈</td>
+    <td>Silver Medalist in Science Olympiad (2021)</td>
+  </tr>
+  <tr>
+    <td>🧪</td>
+    <td>Zonal Level Inspire Award – Modern Agriculture Project Winner (2019)</td>
+  </tr>
+  <tr>
+    <td>🚗</td>
+    <td>Taluka & District Level – Modern Transport Project Winner (2020)</td>
+  </tr>
+  <tr>
+    <td>🏊‍♀️</td>
+    <td>State Level Swimming Champion (2017)</td>
+  </tr>
+  <tr>
+    <td>🏐</td>
+    <td>District Level Volleyball Player (2017)</td>
+  </tr>
+  <tr>
+    <td>♟️</td>
+    <td>Division Level Chess Champion (2017, 2018)</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td>Winner of Camel Art Contest (2015, 2017, 2018, 2019)</td>
+  </tr>
+  <tr>
+    <td>🖍️</td>
+    <td>Best Entry in National Level Colouring Competition (2020)</td>
+  </tr>
+</table>
 
-<ul>
-  <li>📚 <strong>SSC Grade</strong>: 91.40%</li>
-  <li>🥇 Gold Medal – Science Olympiad (2018)</li>
-  <li>🥈 Silver Medal – Science Olympiad (2021)</li>
-  <li>🌾 Inspire Award – Modern Agriculture Project Winner (2019)</li>
-  <li>🚜 Modern Transport Project Winner (2020)</li>
-  <li>🏊‍♀️ State Level – Swimming Champion (2017)</li>
-  <li>🏐 District Level – Volleyball Player (2017)</li>
-  <li>♟️ Division Level – Chess Champion (2017, 2018)</li>
-  <li>🎨 Best Entry – National Level Colouring (2020)</li>
-  <li>🖌️ Camel Art Contest Winner (2015, 2017–2019)</li>
-</ul>
+<br>
 
-### 🎓 College Highlights
-
-<ul>
-  <li>🎯 Finalist – Smart India Hackathon 2024</li>
-  <li>🧾 Poster Presentation – Gharda Institute of Technology 2024</li>
-  <li>💡 Project: Smart Farming Assistant for Disease Prediction using Deep Learning</li>
-  <li>🌱 Startup Pitch – AI in Agriculture Innovation (2025)</li>
-  <li>🏆 Winner – CodeSprint 2024 DBATU Hackathon (Innovative Project Category)</li>
-  <li>🎨 2nd Prize – University Level Poster Presentation on AI in Agriculture (2024)</li>
-</ul>
-
-<sub><em>School: Ideal English School Shaikh Husain Kazi English High School and Junior College, Mahad-Raigad</em></sub>
+<table>
+  <tr>
+    <th colspan="2" align="center">🎓 College Level</th>
+  </tr>
+  <tr>
+    <td>🎖️</td>
+    <td>Finalist – Smart India Hackathon 2024</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td>Poster Presentation Participant – Gharda Institute of Technology (2024)</td>
+  </tr>
+ 
+</table>
 
 ---
 
@@ -54,41 +86,113 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Languages & Tools
 
-**Languages**
+### 🚀 Development Tools
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI/ML Tools**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Other Tools**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+<table>
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/><br>Android
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br>C
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/><br>HTML5
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/><br>CSS3
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br>PHP
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/><br>React
+</td>
+<td align="center">
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/><br>React Native
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/><br>Node.js
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/><br>MongoDB
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/><br>SQLite
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/><br>Oracle
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/><br>Postman
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="Heroku"/><br>Heroku
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br>Linux
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/><br>Figma
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/><br>Django
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/><br>Flask
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" width="40" height="40" alt="Ember.js"/><br>Ember.js
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/><br>OpenCV
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/><br>Scikit-learn
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" width="40" height="40" alt="Seaborn"/><br>Seaborn
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/><br>Pandas
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/><br>TensorFlow
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/><br>PyTorch
+</td>
+</tr>
+</table>
+</div>
 ---
 
 ### 📈 GitHub Stats & Streaks
