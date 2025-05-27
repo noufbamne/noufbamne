@@ -18,25 +18,84 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 
 ### 🏆 Achievements
 
-- 📚 **SSC Grade**: 91.40%
-- 🥇 Gold Medalist – Science Olympiad (2018)
-- 🥈 Silver Medalist – Science Olympiad (2021)
-- 🌾 Zonal Level Inspire Award – Modern Agriculture Project Winner (2019)
-- 🚜 Taluka & District Level – Modern Transport Project Winner (2020)
-- 🏊‍♀️ State Level – Swimming Champion (2017)
-- 🏐 District Level – Volleyball Player (2017)
-- ♟️ Division Level – Chess Champion (2017, 2018)
-- 🎨 National Level – Best Entry in Colouring (2020)
-- 🖌️ Camel Art Contest Winner – (2015, 2017, 2018, 2019)
+<table>
+  <tr><th>🏫 School Achievements</th><th>🎓 College Highlights</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>📚 <strong>SSC Grade</strong>: 91.40%</li>
+        <li>🥇 Gold Medal – Science Olympiad (2018)</li>
+        <li>🥈 Silver Medal – Science Olympiad (2021)</li>
+        <li>🌾 Inspire Award – Modern Agriculture Project Winner (2019)</li>
+        <li>🚜 Modern Transport Project Winner (2020)</li>
+        <li>🏊‍♀️ State Level – Swimming Champion (2017)</li>
+        <li>🏐 District Level – Volleyball Player (2017)</li>
+        <li>♟️ Division Level – Chess Champion (2017, 2018)</li>
+        <li>🎨 Best Entry – National Level Colouring (2020)</li>
+        <li>🖌️ Camel Art Contest Winner (2015, 2017–2019)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🎯 Finalist – Smart India Hackathon 2024</li>
+        <li>🧾 Poster Presentation – Gharda Institute of Technology 2024</li>
+        <li>💡 Project: Smart Farming Assistant for Disease Prediction using Deep Learning</li>
+        <li>🌱 Startup Pitch – AI in Agriculture Innovation (2025)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <sub><em>School: Ideal English School Shaikh Husain Kazi English High School and Junior College, Mahad-Raigad</em></sub>
 
 ---
 
-### 🎓 College Highlights
+### 🛠️ Languages, Tools & Frameworks
 
-- 🎯 Finalist – Smart India Hackathon 2024
-- 🧾 Poster Presentation – Gharda Institute of Technology 2024
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI/ML Tools**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Other Tools**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noufbamne&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noufbamne&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufbamne&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📦 Featured Repositories
+
+```markdown
+> 🚀 Stay tuned! My top projects with glowing effects and project highlights are coming soon!
+```
 
 ---
 
@@ -56,21 +115,11 @@ section College Life
 Joined Engineering      :done, 2021-08-01, 1d
 Smart India Hackathon   :done, 2024-03-15, 1d
 Poster Presentation     :done, 2024-04-10, 1d
+AI in Agriculture Pitch :done, 2025-05-25, 1d
 
 section The Future
-Tech Innovator in Making :2025-01-01, 2025-12-31
+Tech Innovator in Making :2025-06-01, 2025-12-31
 ```
-
----
-
-### ✨ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -98,4 +147,4 @@ Tech Innovator in Making :2025-01-01, 2025-12-31
   }
 </style>
 
-<!-- Theme & Aesthetic: tokyo night, soft dark mode, sparkly hover animations, section dividers with style -->
+<!-- Theme & Aesthetic: tokyo night, sparkly animations, glowing badges, elegant containers -->
