@@ -225,8 +225,9 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 </div>
 
 ---
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
-![Nouf's Pink Snake](https://github.com/noufbamne/snk/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/noufbamne/noufbamne/blob/output/github-contribution-grid-snake.svg)
 
+![github contribution grid snake animation](https://github.com/noufbamne/noufbamne/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff69b4)
 ---
