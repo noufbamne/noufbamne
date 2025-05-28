@@ -223,11 +223,3 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
   </a>
 
 </div>
-
----
-### 🐍 Contribution Snake
-
-![github contribution grid snake animation](https://github.com/noufbamne/noufbamne/blob/output/github-contribution-grid-snake.svg)
-
-![github contribution grid snake animation](https://github.com/noufbamne/noufbamne/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff69b4)
----
