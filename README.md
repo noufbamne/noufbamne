@@ -1,6 +1,8 @@
+<a name="top"></a>
+
 <h1 align="center"> Hello, I'm Nouf Bamne ✨</h1>
 
-<h3 align="center"><i>Computer Engineering Student 💻</i></h3>
+<h3 align="center"><i>Computer Engineering Student </i>💻</h3>
 
 <div align="center">
   <a href="https://github.com/noufbamne">
@@ -67,8 +69,8 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 
 ### ⚙️ Frameworks & Tools
 | React | React Native | Node.js | Flask | Django | Android Studio |
-|-------|--------------|---------|-------|--------|----------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/> | <img src="https://reactnative.dev/img/header_logo.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="55" height="55"/> |
+|:-----:|:------------:|:-------:|:-----:|:------:|:--------------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/> | <img src="https://reactnative.dev/img/header_logo.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="55" height="55"/> |
 
 ### 📊 Data Science & Machine Learning
 | Pandas | NumPy | Scikit-learn | OpenCV | Seaborn | TensorFlow | PyTorch |
@@ -81,9 +83,9 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55"/> |
 
 ### 🎨 UI/UX & Others
-| Figma | Heroku |
-|-------|--------|
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="55" height="55"/> |
+| Figma |
+|-------|
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="55" height="55"/> | 
 
 <br> 
 
@@ -107,7 +109,6 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 <!-- 🌸 Glowy Contribution Chart Section -->
 <div align="center" style="
   margin-top: 40px;
-  margin-bottom: 40px;
   padding: 20px;
   background: linear-gradient(145deg, #ff69b4, #ffa6c9, #ffe6f0);
   border-radius: 20px;
@@ -124,6 +125,7 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
     text-shadow: 0 0 10px #ff69b4, 0 0 20px #ff85c1;
     font-family: 'Segoe UI', sans-serif;
     margin-left: 20px;
+    margin-bottom: 10px;
   ">
     🌸 Nouf's GitHub Contribution Timeline
   </h2>
@@ -133,7 +135,7 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
        style="
          width: 100%;
          border-radius: 15px;
-         margin-top: 20px;
+         margin-top: 0;
          box-shadow: 0 0 30px #ff69b4, 0 0 45px #ffa6c9, 0 0 60px #ffaad5;
          background-color: #1a1a2e;
          padding: 12px;
@@ -141,15 +143,19 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
        " />
 </div>
 
-<p align="center">
+<!-- 🐍 Snake Animation -->
+<div align="center" style="margin-top: -10px;">
   <img src="https://github.com/noufbamne/noufbamne/raw/output/github-snake-dark.svg" 
        alt="Snake Game" 
        width="100%" 
        height="400" 
-       style="margin-top: 10px;" />
-</p>
-<p align="right">
-  <a href="#top" style="text-decoration: none; font-size: 24px; color: #ff69b4; transition: color 0.3s;">
-    ⬆ Back to Top
+       style="margin-top: 0px;" />
+</div>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-FFC0CB?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top" />
   </a>
 </p>
+
+
