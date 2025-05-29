@@ -223,3 +223,8 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
   </a>
 
 </div>
+
+---
+![snake gif](https://github.com/noufbamne/noufbamne/blob/output/github-snake-dark.svg)
+---
+
