@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/noufbamne">
-    <img src="https://komarev.com/ghpvc/?username=noufbamne&color=ff69b4&style=for-the-badge" alt="Profile Views" style="border-radius: 10px; box-shadow: 0 0 10px #ff69b4;" />
+    <img src="https://komarev.com/ghpvc/?username=noufbamne&color=ff69b4&style=for-the-badge" alt="Profile Views" style="border-radius: 10px; box-shadow: 0 0 10px #ff69b4;"/>
   </a>
 </div>
 
