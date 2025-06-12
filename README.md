@@ -143,7 +143,7 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
        " />
 </div>
 
-<!-- 🐍 Snake Animation -->
+<!--🐍 Snake Animation -->
 <div align="center" style="margin-top: -10px;">
   <img src="https://github.com/noufbamne/noufbamne/raw/output/github-snake-dark.svg" 
        alt="Snake Game" 
