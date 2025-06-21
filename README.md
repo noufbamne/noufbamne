@@ -96,30 +96,6 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=noufbamne&theme=rose_pine&border_radius=20" alt="GitHub Streak"/></p>
 </div>
 
-<br>
-
-<!-- 🌸 Glowy Contribution Chart Section -->
-<div align="center" style="
-  margin-top: 40px;
-  padding: 20px;
-  background: linear-gradient(145deg, #ff69b4, #ffa6c9, #ffe6f0);
-  border-radius: 20px;
-  box-shadow: 0 0 25px rgba(255, 105, 180, 0.6);
-  width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-">
-
-  <h2 align="left" style="
-    font-size: 24px;
-    font-weight: bold;
-    color: #fff;
-    text-shadow: 0 0 10px #ff69b4, 0 0 20px #ff85c1;
-    font-family: 'Segoe UI', sans-serif;
-    margin-left: 20px;
-    margin-bottom: 10px;
-  ">
-    
 <!--🐍 Snake Animation -->
 <div align="center" style="margin-top: -10px;">
   <img src="https://github.com/noufbamne/noufbamne/raw/output/github-snake-dark.svg" 
