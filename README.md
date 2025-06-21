@@ -90,7 +90,7 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 <br> 
 
 ## 🌸 Nouf's GitHub Universe
-<div align="center"
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noufbamne&show_icons=true&locale=en&layout=compact&theme=rose_pine&border_radius=20" alt="Top Languages" />
   
@@ -100,7 +100,7 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noufbamne&theme=rose_pine&border_radius=20" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=noufbamne&theme=rose_pine&border_radius=20" alt="GitHub Streak" />
   
 </div>
 
@@ -157,5 +157,3 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
     <img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-FFC0CB?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top" />
   </a>
 </p>
-
-
