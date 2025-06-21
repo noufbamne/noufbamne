@@ -90,7 +90,7 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 <br> 
 
 ## 🌸 Nouf's GitHub Universe
-<div align="center">
+<div align="center"
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noufbamne&show_icons=true&locale=en&layout=compact&theme=rose_pine&border_radius=20" alt="Top Languages" />
   
@@ -100,7 +100,7 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=noufbamne&theme=rose_pine&border_radius=20" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noufbamne&theme=rose_pine&border_radius=20" alt="GitHub Streak" />
   
 </div>
 
@@ -127,22 +127,7 @@ Let’s connect, collaborate, and create something magical together! 🎀✨
     margin-left: 20px;
     margin-bottom: 10px;
   ">
-    🌸 Nouf's GitHub Contribution Timeline
-  </h2>
-
-  <img src="https://ghchart.rshah.org/FF69B4/noufbamne" 
-       alt="noufbamne's GitHub Contributions Chart" 
-       style="
-         width: 100%;
-         border-radius: 15px;
-         margin-top: 0;
-         box-shadow: 0 0 30px #ff69b4, 0 0 45px #ffa6c9, 0 0 60px #ffaad5;
-         background-color: #1a1a2e;
-         padding: 12px;
-         border: 2px solid #ffaad5;
-       " />
-</div>
-
+    
 <!--🐍 Snake Animation -->
 <div align="center" style="margin-top: -10px;">
   <img src="https://github.com/noufbamne/noufbamne/raw/output/github-snake-dark.svg" 
