@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-<h1 align="center"> Hello, I'm Nouf Bamne ✨</h1>
+<h1 align="center"> Hello, I'm Nouf Bamne </h1>
 
 <h3 align="center"><i>Computer Engineering Student </i>💻</h3>
 
@@ -16,8 +16,8 @@
   <table style="background:#ffe6f0; color:#660033; border:1px solid #ff99cc; border-radius:12px; padding:16px; max-width:500px; box-shadow: 0 0 10px #ff99cc; margin-top: 10px;">
     <tr>
       <td align="center">
-        <strong>🌌 “Magic happens when you don’t give up, even when you want to.<br>
-        The universe always falls in love with a stubborn heart.” 💖</strong>
+        <strong>“Magic happens when you don’t give up, even when you want to.<br>
+        The universe always falls in love with a stubborn heart.” </strong>
       </td>
     </tr>
   </table>
@@ -29,7 +29,7 @@ Hey there! I’m <strong>Nouf Bamne</strong>, a tech-savvy girl with a passion f
 
 Outside the world of tech, I’m a multifaceted creator – I sketch like an artist, race like an athlete, and sip tea like a connoisseur (seriously, I adore tea!). I’ve always believed that curiosity and creativity go hand in hand. Whether it's building projects, collaborating on exciting ideas, or exploring new tech stacks, I’m always ready for the next challenge. 🌟
 
-Let’s connect, collaborate, and create something magical together! 🎀✨
+Let’s connect, collaborate, and create something magical together! 🎀
 
 <br> 
 
