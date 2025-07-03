@@ -25,12 +25,21 @@
 
 ## 🌸 About Me
 
-Hey there! I’m <strong>Nouf Bamne</strong>, a tech-savvy girl with a passion for innovation and an undying love for all things code. I’m currently pursuing <strong>Computer Engineering</strong> at <em>Dr. Babasaheb Ambedkar Technological University</em>, where I’m diving deep into the world of <strong>AI, ML, and full-stack development</strong>. I believe in harnessing technology to build meaningful solutions and inspire change. You’ll often find me participating in hackathons, where I thrive on building fast and learning even faster! 💻⚡
+ 𝖧𝗂, 𝖨'𝗆 𝖭𝗈𝗎𝖿! — currently training models, tweaking UIs, and teaching machines to think (well, kind of). I work at the intersection of creativity, code, and curiosity. 
 
-Outside the world of tech, I’m a multifaceted creator – I sketch like an artist, race like an athlete, and sip tea like a connoisseur (seriously, I adore tea!). I’ve always believed that curiosity and creativity go hand in hand. Whether it's building projects, collaborating on exciting ideas, or exploring new tech stacks, I’m always ready for the next challenge. 🌟
+I recently completed my Diploma in Computer Engineering from Dr. Babasaheb Ambedkar Technological University, Lonere, and my passion for technology has only grown since I typed my first “Hello World.”
 
-Let’s connect, collaborate, and create something magical together! 🎀
+I have hands-on experience in C, C++, Java, JavaScript, HTML/CSS, and Python, but I especially thrive when working with Java, JavaScript, and Python. I love diving deep into concepts, learning how things work at the core, and building tech that makes life easier, smarter, and a little more magical.
 
+I'm not just a developer — I’m a leader. I led my team to the Top 6 at the Smart India Hackathon, where I learned how powerful collaboration, focus, and fast thinking can be. I’ve consistently excelled both academically and beyond, taking up roles as a coordinator in various tech and non-tech events, and always bringing energy and originality to every opportunity.
+
+I truly believe in thinking beyond the obvious — because let’s be honest, that’s what the universe expects from creators and innovators. 
+
+Beyond the screen, I’m a professional athlete, a self-taught artist, and a full-time tea enthusiast — because solving bugs without chai? I can't even imagine that! 
+
+Most importantly, I have a genuine love for 𝖠𝖨, 𝖬𝖫, 𝖣𝖫, and 𝖦𝖾𝗇𝖾𝗋𝖺𝗍𝗂𝗏𝖾 𝖠𝖨. I’m constantly exploring how smart systems can transform the world we live in. With a strong foundation in product life cycle and management, I strive to create solutions that are not just functional but truly impactful.
+
+Whether I’m sketching ideas on paper or shipping code at midnight, I believe in bringing vision, emotion, and a bit of sparkle to everything I build. 𝘉𝘦𝘤𝘢𝘶𝘴𝘦 𝘵𝘦𝘤𝘩 𝘪𝘴𝘯'𝘵 𝘫𝘶𝘴𝘵 𝘸𝘩𝘢𝘵 𝘐 𝘥𝘰—𝘪𝘵'𝘴 𝘸𝘩𝘰 𝘐 𝘢𝘮.
 <br> 
 
 ## ✨ Connect with me 
