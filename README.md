@@ -23,7 +23,7 @@
   </table>
 </div>
 
-## 🌸 About Me
+## 🌸 ABOUT ME
 
  𝖧𝗂, 𝖨'𝗆 𝖭𝗈𝗎𝖿! — currently training models, tweaking UIs, and teaching machines to think (well, kind of). I work at the intersection of creativity, code, and curiosity. 
 
@@ -42,29 +42,29 @@ Most importantly, I have a genuine love for 𝖠𝖨, 𝖬𝖫, 𝖣𝖫, and �
 Whether I’m sketching ideas on paper or shipping code at midnight, I believe in bringing vision, emotion, and a bit of sparkle to everything I build. 𝘉𝘦𝘤𝘢𝘶𝘴𝘦 𝘵𝘦𝘤𝘩 𝘪𝘴𝘯'𝘵 𝘫𝘶𝘴𝘵 𝘸𝘩𝘢𝘵 𝘐 𝘥𝘰—𝘪𝘵'𝘴 𝘸𝘩𝘰 𝘐 𝘢𝘮.
 <br> 
 
-## ✨ Connect with me 
+## NETWORK ACCESS
 
-<p align="left">
-  <a href="mailto:noufbamne@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" title="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/nouf-bamne" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/nouf_bamne" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/noufbamne" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" title="GitHub"/>
-  </a>
+<p align="center">
+
+<a href="mailto:noufbamne@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-A8FF7A?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/nouf-bamne">
+<img src="https://img.shields.io/badge/LINKEDIN-D8FF7A?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/noufbamne">
+<img src="https://img.shields.io/badge/GITHUB-F4F1B0?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://instagram.com/nouf_bamne">
+<img src="https://img.shields.io/badge/INSTAGRAM-A8FF7A?style=for-the-badge&logo=instagram&logoColor=black"/>
+</a>
+
 </p>
 
-<br>
-
-## 🚀 Skills & Technologies
+## SKILLS AND TECHNOLOGIES
 
 ### 🔹 Languages
 | C | C++ | Java | Python |
@@ -98,20 +98,43 @@ Whether I’m sketching ideas on paper or shipping code at midnight, I believe i
 
 <br> 
 
-## 🌸 Nouf's GitHub Universe
-<div align="center"
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=noufbamne&show_icons=true&locale=en&layout=compact&theme=rose_pine&border_radius=20" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=noufbamne&show_icons=true&theme=rose_pine&border_radius=20" alt="GitHub Stats"/></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=noufbamne&theme=rose_pine&border_radius=20" alt="GitHub Streak"/></p>
+## PERFORMANCE ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noufbamne&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufbamne&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
 </div>
 
-<!--🐍 Snake Animation -->
-<div align="center" style="margin-top: -10px;">
-  <img src="https://github.com/noufbamne/noufbamne/raw/output/github-snake-dark.svg" 
-       alt="Snake Game" 
-       width="100%" 
-       height="400" 
-       style="margin-top: 0px;" />
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noufbamne&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+
+## ACTIVITY MATRIX
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noufbamne&bg_color=050816&color=A8FF7A&line=D8FF7A&point=F4F1B0&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github.com/noufbamne/noufbamne/raw/output/github-snake-dark.svg"/>
+
+</p>
+
+### SYSTEM OPERATIONAL
+
+*"Every problem has an elegant solution waiting to be discovered."*
+
 </div>
 
 <p align="center">
