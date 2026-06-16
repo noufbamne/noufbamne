@@ -116,21 +116,6 @@ Whether I’m sketching ideas on paper or shipping code at midnight, I believe i
 </div>
 
 
-## ACTIVITY MATRIX
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noufbamne&bg_color=050816&color=A8FF7A&line=D8FF7A&point=F4F1B0&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github.com/noufbamne/noufbamne/raw/output/github-snake-dark.svg"/>
-
-</p>
-
 ### SYSTEM OPERATIONAL
 
 *"Every problem has an elegant solution waiting to be discovered."*
